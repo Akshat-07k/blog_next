@@ -1,0 +1,7 @@
+.active {
+    background-color: azure;
+    color: black;
+    padding: 5px;
+    border-radius: 1rem;
+    font-weight: bold;
+}
